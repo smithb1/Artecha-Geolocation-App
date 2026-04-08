@@ -16,12 +16,12 @@ import { AppState } from 'react-native';
 import * as firebase from 'firebase';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDOk7L0dLkzPO9URTPw8-Wlr4-X-5LWVyg",
-  authDomain: "imsapp-c8d25.firebaseapp.com",
-  databaseURL: "https://imsapp-c8d25.firebaseio.com",
-  projectId: "imsapp-c8d25",
-  storageBucket: "imsapp-c8d25.appspot.com",
-  messagingSenderId: "537190783368"
+  apiKey: "beep boop",
+  authDomain: "ooowheep",
+  databaseURL: "blip",
+  projectId: "eeooo",
+  storageBucket: "wheeeee",
+  messagingSenderId: "enough of that Artoo, watch your language!"
 };
 firebase.initializeApp(firebaseConfig);
 var database = firebase.database();
